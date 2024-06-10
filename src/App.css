@@ -35,7 +35,6 @@
   to {
     transform: rotate(360deg);
   }
-
 }
 
 .button {
@@ -50,6 +49,7 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
 .loading, .error, .data {
   margin-top: 20px;
   font-size: 1.2em;
@@ -75,6 +75,7 @@
   white-space: pre-wrap;
   word-break: break-word;
 }
+
 .styled-input {
   padding: 5px;
   border-radius: 5px;
@@ -82,4 +83,23 @@
   margin-right: 10px;
   font-size: 16px;
   width: 50px;
+}
+
+/* Responsive styling */
+@media (max-width: 600px) {
+  .data {
+    margin: 10px;
+    padding: 15px;
+    font-size: 1em;
+  }
+  
+  .styled-input {
+    width: 40px;
+    font-size: 14px;
+  }
+  
+  .button {
+    font-size: 18px;
+    padding: 8px 20px;
+  }
 }
