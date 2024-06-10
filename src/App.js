@@ -43,7 +43,7 @@ function FetchDataOnClick() {
     <div className="App">
       <header className="App-header">
         <h1>Meoww Factsss!!</h1>
-        <img src='images/cutecat2.gif' width="250" height="250" ></img>
+        <img src='images/cutecat2.gif' alt="cutecat" width="250" height="250" ></img>
 
         <button class="button" onClick={handleClick}>Click for Meow Fact</button>
         {loading && <p>Loading...</p>}
