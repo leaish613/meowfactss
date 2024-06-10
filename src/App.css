@@ -41,13 +41,14 @@
 .button {
   border: none;
   color: rgb(0, 21, 98);
-  padding: 15px 32px;
+  padding: 10px 24px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
+  border-radius: 5px;
 }
 .loading, .error, .data {
   margin-top: 20px;
@@ -59,17 +60,26 @@
 }
 
 .data {
-  background-color: #9d9d9d;
+  background-color: #fdfdfd;
+  color: #06151a;
   border: 1px solid #ddd;
   padding: 20px;
   border-radius: 5px;
   max-width: 600px;
   margin: 20px auto;
-  text-align: left;
+  text-align: center;
 }
 
 .data pre {
   margin: 0;
   white-space: pre-wrap;
   word-break: break-word;
+}
+.styled-input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+  font-size: 16px;
+  width: 50px;
 }
