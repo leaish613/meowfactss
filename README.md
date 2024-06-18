@@ -1,6 +1,6 @@
 # MeowFactss
 
-Welcome to the MeowFactss repository! This project provides fun facts about cats. Below, you'll find a detailed explanation of the project, how to set it up, and an overview of the codebase.
+Welcome to the MeowFactss repository! Below, you'll find a detailed explanation of the project, how to set it up, and an overview of the codebase.
 
 ## Introduction
 MeowFactss is a fun project designed to share interesting and random facts about cats. The goal of this project is to provide cat enthusiasts and curious individuals with fascinating information about cats in a simple and engaging manner.
