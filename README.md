@@ -87,7 +87,7 @@ Copy code
 npm start
 The React app should now be running and accessible at http://localhost:3000.
 
-##Screenshots
+## Screenshots
 Here are some screenshots demonstrating the functionality of the MeowFactss project:
 
 Screenshot 1
@@ -98,7 +98,7 @@ Screenshot 2
 
 Description of Screenshot 2 showing the SQLite database structure with stored cat facts.
 
-##Available Scripts
+## Available Scripts
 This project was bootstrapped with Create React App. In the project directory, you can run:
 
 npm start
@@ -111,11 +111,11 @@ You may also see any lint errors in the console.
 SQLite Integration
 This project uses SQLite as the database for storing and retrieving cat facts. The backend (Python) manages the SQLite database, providing data to the React frontend.
 
-##Learn More
+## Learn More
 SQLite Documentation
 Create React App documentation
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
