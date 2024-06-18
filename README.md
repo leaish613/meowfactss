@@ -2,21 +2,15 @@
 
 Welcome to the MeowFactss repository! This project provides fun facts about cats. Below, you'll find a detailed explanation of the project, how to set it up, and an overview of the codebase.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Purpose and Functionality](#project-purpose-and-functionality)
-3. [Features](#features)
-4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Available Scripts](#available-scripts)
-8. [SQLite Integration](#sqlite-integration)
-9. [Learn More](#learn-more)
-10. [Contributing](#contributing)
-11. [License](#license)
-
 ## Introduction
 MeowFactss is a fun project designed to share interesting and random facts about cats. The goal of this project is to provide cat enthusiasts and curious individuals with fascinating information about cats in a simple and engaging manner.
+
+## Screenshots
+
+![image](https://github.com/leaish613/meowfactss/assets/146575698/d1434f29-591c-49a8-a420-e0c6ddd49568)
+![image](https://github.com/leaish613/meowfactss/assets/146575698/0900ec12-dddf-4301-9cd4-71b3579365b1)
+![image](https://github.com/leaish613/meowfactss/assets/146575698/4dc55f08-a973-4387-8d2e-029c9789463f)
+
 
 ## Project Purpose and Functionality
 The MeowFactss project integrates SQLite with React to manage and display random facts about cats. The backend, written in Python, uses SQLite to store and retrieve cat facts. The frontend, built with React, communicates with the backend to fetch and display these facts to users. This setup makes MeowFactss a comprehensive full-stack application for exploring cat trivia.
@@ -87,16 +81,6 @@ Copy code
 npm start
 The React app should now be running and accessible at http://localhost:3000.
 
-## Screenshots
-Here are some screenshots demonstrating the functionality of the MeowFactss project:
-
-Screenshot 1
-
-Description of Screenshot 1 showing the React frontend displaying a random cat fact.
-
-Screenshot 2
-
-Description of Screenshot 2 showing the SQLite database structure with stored cat facts.
 
 ## Available Scripts
 This project was bootstrapped with Create React App. In the project directory, you can run:
